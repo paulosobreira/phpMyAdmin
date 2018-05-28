@@ -145,7 +145,7 @@ $cfg['SaveDir'] = '';
  * Available options
  * ('ask' | 'always' | 'never')
  * default = 'ask'
- */false
+ */
 //$cfg['SendErrorReports'] = 'always';
 
 /**
